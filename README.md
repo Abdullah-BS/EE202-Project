@@ -5,3 +5,9 @@ functionality, the report explains and displays information about the Classes st
 that are used in this project, with the UML Diagrams for each class. Also, In the end of
 this report the Main file which has the full project with the GUI pages will be briefly
 explained.
+
+## Class structure:
+### Class Course:
+The first class in this project is about the courses that the students take, this class
+consists of several methods that will be shown in the Figures below as well as the UML
+Diagram.
