@@ -13,9 +13,13 @@ consists of several methods that will be shown in the UML
 Diagram.
 
 
-![image](https://github.com/Abdullah-BS/EE202-Project/assets/139412761/214565c4-f2dd-4dca-96ab-103527dd3436)
+![image](https://github.com/Abdullah-BS/EE202-Project/assets/139412761/495d5504-f07d-4ded-907a-ca36035e4022)
 
 
-As shown in the above Figure, the constructor method is displayed and 6 arguments are requested to create an object
-each argument has a method of “GET” to print the attribute of the object and the method
-“SET” to change the value of the attribute, and the __str__ method to print all attributes
+![image](https://github.com/Abdullah-BS/EE202-Project/assets/139412761/2ac464e8-b01f-4d6c-8ae4-19a50a6c052f)
+
+
+![image](https://github.com/Abdullah-BS/EE202-Project/assets/139412761/278c8199-7bc2-431a-8a15-b1ca8e70f603)
+
+
+![Uploading image.png…]()
