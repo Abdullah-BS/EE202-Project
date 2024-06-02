@@ -17,7 +17,7 @@
 
 ## Introduction
 
-This ReadMe file contains a brief explanation of the **"Student Registration System"** functionality. It explains and displays information about the class structures used in this project, with UML diagrams for each class. At the end of this document, the main file, which includes the full project with the GUI pages, will be briefly explained.
+This Page contains a brief explanation of the **"Student Registration System"** functionality. It explains and displays information about the class structures used in this project, with UML diagrams for each class. At the end, the main file, which includes the full project with the GUI pages, will be briefly explained.
 
 ## Class Structure
 
